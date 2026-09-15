@@ -1,4 +1,4 @@
-print ("Git Exam")
+print ("GITHUB VERSION")
 print ("Second line")
 print ("Master Change")
 print ("GitHub Test")
